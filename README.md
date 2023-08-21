@@ -2,6 +2,9 @@
 <h3 align="center">Java developer, Front-end developer</h3>
 
 <div align="center">
+  
+[![codewars](https://www.codewars.com/users/the0shail/badges/large)](https://www.codewars.com/users/the0shail)
+  
   <h3>Languages</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
