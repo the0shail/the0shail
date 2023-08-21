@@ -2,12 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
+
+<hr>
 <div>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 
-
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </div>
 
 <!--
