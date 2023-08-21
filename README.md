@@ -1,8 +1,5 @@
-<h1 align="center">Hi there, I'm Aziz 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Aziz!</h1>
 <h3 align="center">Java developer, Front-end developer</h3>
-
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)  
 
 <div align="center">
   <h3>Languages</h3>
