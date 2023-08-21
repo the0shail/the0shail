@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Aziz!</h1>
+<h1 align="center">Hi there, I'm Aziz! 
+  
+![](https://komarev.com/ghpvc/?username=the0shail) 
+</h1>
 <h3 align="center">Java developer, Front-end developer</h3>
 
 <div align="center">
