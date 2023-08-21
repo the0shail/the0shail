@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aziz! 
+<h1 align="center">Hi! I'm Aziz Tagaev
   
 ![](https://komarev.com/ghpvc/?username=the0shail)</h1>
 
