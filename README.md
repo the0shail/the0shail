@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm Aziz 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Java developer Front-end developer</h3>
+<h3 align="center">Java developer, Front-end developer</h3>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 
 <h3>Languages</h3>
 
