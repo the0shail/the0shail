@@ -105,7 +105,5 @@
 ---
 
 ### 📫 How to reach me
-- **Email:** aziz.tagaev@example.com  
-- **LinkedIn:** [linkedin.com/in/aziz-tagaev](https://linkedin.com/)  
 - **Telegram:** [@the0shail](https://t.me/the0shail)
 
